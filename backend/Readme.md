@@ -1,4 +1,4 @@
-#  Mini CRM Platform – Assignment
+#  Mini CRM Platform 
 
 
 Building a mini CRM platform that:
