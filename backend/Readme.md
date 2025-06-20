@@ -1,8 +1,7 @@
 #  Mini CRM Platform – Assignment
 
-##  Assignment Goal (as understood):
 
-Build a mini CRM platform that:
+Building a mini CRM platform that:
 
 - Allows marketers to create and send campaigns to specific customer segments.
 - Tracks delivery receipts from vendors (simulated or real).
