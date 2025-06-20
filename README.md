@@ -14,7 +14,6 @@ Building a mini CRM platform that:
 ##  My Approach
 
 ### 1. Understanding the Requirements
-Broke the assignment into key functional blocks:
 - Authentication
 - Campaign creation and audience segmentation
 - Simulated message delivery
